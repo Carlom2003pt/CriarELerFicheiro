@@ -1,0 +1,11 @@
+C:\Users\Samsung\source\repos\Pasta\Pasta\bin\Debug\netcoreapp3.1\Pasta.exe
+C:\Users\Samsung\source\repos\Pasta\Pasta\bin\Debug\netcoreapp3.1\Pasta.deps.json
+C:\Users\Samsung\source\repos\Pasta\Pasta\bin\Debug\netcoreapp3.1\Pasta.runtimeconfig.json
+C:\Users\Samsung\source\repos\Pasta\Pasta\bin\Debug\netcoreapp3.1\Pasta.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\Pasta\Pasta\bin\Debug\netcoreapp3.1\Pasta.dll
+C:\Users\Samsung\source\repos\Pasta\Pasta\bin\Debug\netcoreapp3.1\Pasta.pdb
+C:\Users\Samsung\source\repos\Pasta\Pasta\obj\Debug\netcoreapp3.1\Pasta.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Pasta\Pasta\obj\Debug\netcoreapp3.1\Pasta.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Pasta\Pasta\obj\Debug\netcoreapp3.1\Pasta.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Pasta\Pasta\obj\Debug\netcoreapp3.1\Pasta.dll
+C:\Users\Samsung\source\repos\Pasta\Pasta\obj\Debug\netcoreapp3.1\Pasta.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mb+Yo6EY9jaLhDQv0gpdxh/vKKEKRrawMtTUxr6V1dvZCZVFh+VlsfrCCSEd+gJMAYWtxOjf3JmLWldeEC9xCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Marques\\source\\Antiga\\Pasta\\Pasta\\Pasta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Marques\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.18\\microsoft.netcore.app.host.win-x86.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
